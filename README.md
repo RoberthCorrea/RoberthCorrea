@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como ethical hacking
 - 🌱 Estou aprendendo hacking/programação
-- 😄 Pronomes: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/RoberthCorrea">
