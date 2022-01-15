@@ -23,5 +23,5 @@
   -->
    
    ![Snake animation](https://github.com/RoberthCorrea/RoberthCorrea/blob/output/github-contribution-grid-snake.svg)
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoberthCorrea&repo=ferramentas_de_bug_bounty&theme=github_dark)](https://github.com/RoberthCorrea/ferramentas_de_bug_bounty)
   </div>
